@@ -44,6 +44,19 @@ secret-base/
 
 ---
 
+## 🗄️ Database Overview
+ 
+```
+users ──< boards ──< columns ──< cards
+```
+ 
+- A **user** has many **boards**
+- A **board** has many **columns**
+- A **column** has many **cards**
+- Columns and cards have a `position` field to keep their order
+_The full EER diagram is in [`docs/database/DataBaseV1.png`](docs/database/DataBaseV1.png)._
+
+---
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
