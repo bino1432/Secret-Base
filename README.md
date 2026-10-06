@@ -12,7 +12,7 @@
 
 ## ✨ Features
 
-- [x] User registration and login (JWT authentication)
+- [ ] User registration and login (JWT authentication)
 - [ ] Create, edit, and delete boards
 - [ ] Add columns to a board
 - [ ] Create, edit, and delete cards
