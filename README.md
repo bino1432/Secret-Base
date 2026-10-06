@@ -4,10 +4,6 @@
 
 **Secret Base** is a full-stack project management app inspired by Kanban boards. Create boards, organize work in columns, and move cards as your tasks progress. The name is a tribute to the hideout in Naoki Urasawa's *20th Century Boys*, where friends gathered to make their plans.
 
-![Screenshot](docs/screenshots/board.png)
-
-🔗 **Live demo:** _coming soon_
-
 ---
 
 ## ✨ Features
