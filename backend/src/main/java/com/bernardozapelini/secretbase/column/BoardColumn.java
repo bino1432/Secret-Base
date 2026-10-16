@@ -15,7 +15,7 @@ public class BoardColumn {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
+    private Integer id;
     private String title;
     @ManyToOne
     private Board board;
