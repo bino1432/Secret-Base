@@ -1,21 +1,9 @@
-<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g filter="url(#filter0_d_2_209)">
-<rect x="25" y="25" width="30" height="30" rx="8" fill="url(#paint0_linear_2_209)" shape-rendering="crispEdges"/>
-<path d="M36.0417 33.6667H43.9583V39.2083H36.0417V33.6667Z" stroke-width="1.425" stroke-linecap="round" stroke-linejoin="round" stroke="white"/>
-<path d="M33.6667 40.7917H46.3333V46.3333H33.6667V40.7917Z" stroke-width="1.425" stroke-linecap="round" stroke-linejoin="round" stroke="white"/>
-</g>
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="30" height="30" rx="8" fill="url(#paint0_linear_2_209)"/>
+<path d="M11.0417 8.6667H18.9583V14.2083H11.0417V8.6667Z" stroke-width="1.425" stroke-linecap="round" stroke-linejoin="round" stroke="white"/>
+<path d="M8.6667 15.7917H21.3333V21.3333H8.6667V15.7917Z" stroke-width="1.425" stroke-linecap="round" stroke-linejoin="round" stroke="white"/>
 <defs>
-<filter id="filter0_d_2_209" x="0" y="0" width="80" height="80" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset/>
-<feGaussianBlur stdDeviation="12.5"/>
-<feComposite in2="hardAlpha" operator="out"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0.545098 0 0 0 0 0.360784 0 0 0 0 0.964706 0 0 0 0.267 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2_209"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2_209" result="shape"/>
-</filter>
-<linearGradient id="paint0_linear_2_209" x1="28.0175" y1="22.8872" x2="51.9825" y2="57.1128" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint0_linear_2_209" x1="3.0175" y1="-2.1128" x2="26.9825" y2="32.1128" gradientUnits="userSpaceOnUse">
 <stop stop-color="#A78BFA"/>
 <stop offset="1" stop-color="#7041E6"/>
 </linearGradient>
