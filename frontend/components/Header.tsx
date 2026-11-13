@@ -15,10 +15,10 @@ const arimo = Arimo({
 
 export default function Header() {
     return (
-        <div className="flex justify-evenly">
-            <div className="flex items-center">
+        <div className="flex justify-evenly mt-4">
+            <div className="flex items-center gap-3">
                 <Image src={Logo} alt={"Logo"} />
-                <a href="#" className={`${arimoBold.className} text-[var(--white)]`}>Secret Base</a>
+                <a href="#" className={`${arimoBold.className} text-[var(--white)] text-lg`}>Secret Base</a>
             </div>
             <div className="flex items-center gap-10">
                 <a href="#" className={`${arimo.className} text-[var(--grey)] hover:text-[var(--white)] duration-300`}>Recursos</a>
@@ -27,7 +27,7 @@ export default function Header() {
             </div>
             <div className="flex items-center gap-10">
                 <a href="#" className={`${arimo.className} text-[var(--lightGrey)] hover:text-[var(--white)] duration-300`}>Entrar</a>
-                <div className="flex items-center gap-2 cursor-pointer bg-gradient-to-r from-[var(--primary)] to-[var(--darkPurple)] py-2 px-6 rounded-lg duration-300 hover:brightness-115 hover:-translate-y-0.5">
+                <div className="flex items-center gap-2 cursor-pointer bg-gradient-to-r from-[var(--primary)] to-[var(--darkPurple)] py-2.5 px-6 rounded-lg duration-300 hover:brightness-115 hover:-translate-y-0.5">
                     <p className={`${arimo.className} text-[var(--white)]`}>Começar grátis</p>
                     <Image src={Arrow} alt="arrow" />
                 </div>
